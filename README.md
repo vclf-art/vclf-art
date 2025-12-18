@@ -1,7 +1,7 @@
  Olá, eu sou o Vinicius Cauã
 
 🎓 Estudante de tecnologia  
-💻 Aprendendo HTML, CSS, JavaScript e python
+💻 Aprendendo HTML, CSS, JavaScript e Python
 
 🚀 Interessado em desenvolvimento web e cibersegurança
 
