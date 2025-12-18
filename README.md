@@ -2,6 +2,7 @@
 
 🎓 Estudante de tecnologia  
 💻 Aprendendo HTML, CSS, JavaScript e python
+
 🚀 Interessado em desenvolvimento web e cibersegurança
 
  🔗 Links
